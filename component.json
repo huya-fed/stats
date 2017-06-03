@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/aralejs/class",
+    "version": "v1.2.0",
+    "name": "class",
+    "main": "class.js"
+}
