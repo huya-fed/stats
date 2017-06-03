@@ -1,6 +1,6 @@
 {
-    "repos": "https://github.com/aralejs/class",
-    "version": "v1.2.0",
-    "name": "class",
-    "main": "class.js"
+    "repos": "https://github.com/mrdoob/stats.js",
+    "version": "v0.17.0",
+    "name": "stats",
+    "main": "stats.js"
 }
